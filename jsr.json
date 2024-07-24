@@ -1,0 +1,7 @@
+{
+  "name": "md4wc",
+  "version": "1.0.1",
+  "exports": {
+    ".": "./src/index.js"
+  }
+}
